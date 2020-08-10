@@ -1,2 +1,2 @@
 # AGRIBOT
-implementation of agriculture data set using Decision Trees
+Implementation of crop damage detection using Decision Trees
